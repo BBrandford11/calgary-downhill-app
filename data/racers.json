@@ -1,0 +1,56 @@
+[
+  {
+    "id": "90q0n7k8u",
+    "name": "Bryce Brandford",
+    "nickname": "speed",
+    "number": 11,
+    "ageGroup": "26-35",
+    "totalPoints": 0,
+    "seasonPoints": 12
+  },
+  {
+    "id": "gcjx1egaq",
+    "name": "Josh Wutzke",
+    "nickname": "Sad",
+    "number": 22,
+    "ageGroup": "26-35",
+    "totalPoints": 0,
+    "seasonPoints": 9
+  },
+  {
+    "id": "axizvh3fi",
+    "name": "Grace Miles",
+    "nickname": "Pink",
+    "number": 22,
+    "ageGroup": "18-25",
+    "totalPoints": 0,
+    "seasonPoints": 8
+  },
+  {
+    "id": "hh5m3y1g8",
+    "name": "Scotty",
+    "nickname": "Aero Man",
+    "number": 33,
+    "ageGroup": "26-35",
+    "totalPoints": 0,
+    "seasonPoints": 7
+  },
+  {
+    "id": "kp0gb70aq",
+    "name": "Eric",
+    "nickname": "Art",
+    "number": 22,
+    "ageGroup": "18-25",
+    "totalPoints": 0,
+    "seasonPoints": 9
+  },
+  {
+    "id": "gbyqnvwzh",
+    "name": "Black Sam",
+    "nickname": "asda",
+    "number": 45,
+    "ageGroup": "26-35",
+    "totalPoints": 0,
+    "seasonPoints": 9
+  }
+]
